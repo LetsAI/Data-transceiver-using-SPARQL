@@ -1,0 +1,2 @@
+C:\Users\Emiliano\AppData\Local\Temporary Projects\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config

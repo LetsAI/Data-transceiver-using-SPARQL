@@ -1,0 +1,80 @@
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\Lab.exe.config
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\Lab.exe
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\Lab.pdb
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.Form1.resources
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.exe
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\obj\Debug\Lab.pdb
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\dotNetRDF.dll
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\HtmlAgilityPack.dll
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\MySql.Data.dll
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\Newtonsoft.Json.dll
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\virtado3.dll
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\dotNetRDF.xml
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\HtmlAgilityPack.xml
+D:\Users\laith\Documents\Visual Studio 2015\Projects\Lab\Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\Lab.exe.config
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.exe
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.pdb
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\Lab.exe
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\Lab.pdb
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\dotNetRDF.dll
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\HtmlAgilityPack.dll
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\MySql.Data.dll
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\virtado3.dll
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\dotNetRDF.xml
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\HtmlAgilityPack.xml
+C:\Users\laith\Desktop\Lab\Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\laith\Desktop\Lab\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\Lab.exe.config
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.exe
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.pdb
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\Lab.exe
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\Lab.pdb
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\dotNetRDF.dll
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\HtmlAgilityPack.dll
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\MySql.Data.dll
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\virtado3.dll
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\dotNetRDF.xml
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\HtmlAgilityPack.xml
+C:\Users\laith\Desktop\Lab - Copy\Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\laith\Desktop\Lab - Copy\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.exe.config
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.exe
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.pdb
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.exe
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.pdb
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\dotNetRDF.dll
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\HtmlAgilityPack.dll
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\MySql.Data.dll
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Newtonsoft.Json.dll
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\virtado3.dll
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\dotNetRDF.xml
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\HtmlAgilityPack.xml
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Newtonsoft.Json.xml
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.Form1.resources
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.Properties.Resources.resources
+C:\Users\laith\Google Drive\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.exe.config
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.exe
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.pdb
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.exe
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Lab.pdb
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\dotNetRDF.xml
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\HtmlAgilityPack.xml
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\bin\Debug\Newtonsoft.Json.xml
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.csprojResolveAssemblyReference.cache
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.Form1.resources
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.Properties.Resources.resources
+D:\laith\Google Drive\Education\Master's degree Russia\Third Semester\Intelligent Computing\Intellectual computer\Tasks\Lab -7\Lab\obj\Debug\Lab.csproj.GenerateResource.Cache

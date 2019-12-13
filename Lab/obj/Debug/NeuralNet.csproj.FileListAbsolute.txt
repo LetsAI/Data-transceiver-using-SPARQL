@@ -1,0 +1,34 @@
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNet.Form1.resources
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\Emiliano\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNet.Form1.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\EMILIANO.ESSETRESRL\Documents\Visual Studio 2015\Projects\NeuralNetwork\NeuralNetwork\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\obj\Debug\NeuralNet.Form1.resources
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+C:\Users\EMUSSO\Desktop\C#\NeuralNetwork\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\bin\Debug\NeuralNetwork.exe.config
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNetwork.exe
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNetwork.pdb
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\bin\Debug\NeuralNetwork.exe
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\bin\Debug\NeuralNetwork.pdb
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNet.csprojResolveAssemblyReference.cache
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNet.Form1.resources
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNetwork.Properties.Resources.resources
+D:\Downloads\Basis of Neural Networks in C%23\C#\NeuralNetwork\obj\Debug\NeuralNet.csproj.GenerateResource.Cache
