@@ -3,16 +3,16 @@
 
 ### Contents
 * [Description](#Description)
-* [Hardware_requirements](#Hardware_requirements)
+* [Hardware requirements](#Hardware requirements)
 * [Tasks](#tasks)
-* [C-map](C-map)
+* [C-map](#C-map)
 * [Results](#Results)<br/>
 
 ### Description   
   [**SPARQL**](https://en.wikipedia.org/wiki/SPARQL) is an RDF query language—that is, a semantic query language for databases—able to       retrieve and manipulate data stored in Resource Description Framework format.
 <br/>
 
-### Hardware_requirements
+### Hardware requirements
 * Arduino chip 
 * Five sensors
 * Leds 
