@@ -39,3 +39,5 @@ The below images are representation for two situations alarm and warning using C
 ### Results
 The below pictures represent the final results with C-Sharp GUI:
 ![](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/results1.jpg)
+![](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/results2.jpg)
+
