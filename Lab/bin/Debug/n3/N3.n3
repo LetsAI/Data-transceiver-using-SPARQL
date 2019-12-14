@@ -1,0 +1,262 @@
+@prefix ns0: <http://www.semanticweb.org/laith/ontologies/2017/10/untitled-ontology-11#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix ns0: <http://njh.me/>.
+
+
+ns0:Interval
+  a owl:NamedIndividual ;
+  ns0:Max 200 ;
+  ns0:Min 40 ;
+  ns0:state "Normal";
+  ns0:Par ns0:Interval .
+
+
+ns0:Interval_1 a owl:NamedIndividual ;
+    ns0:Max 20 ;
+    ns0:Min 1 ;
+    ns0:state "Alarm";
+    ns0:Par_1 ns0:Interval_1 .
+
+ns0:Interval_2 a owl:NamedIndividual ;
+    ns0:Max 15 ;
+    ns0:Min 2 ;
+    ns0:state "Alarm";
+    ns0:Par_2 ns0:Interval_2 .
+
+ns0:Interval_3 a owl:NamedIndividual ;
+    ns0:Max 20 ;
+    ns0:Min 3 ;
+    ns0:state "Alarm";
+    ns0:Par_3 ns0:Interval_3 .
+
+ns0:Interval_4 a owl:NamedIndividual ;
+    ns0:Max 13 ;
+    ns0:Min 2 ;
+    ns0:state "Alarm";
+    ns0:Par_4 ns0:Interval_4 .
+
+ns0:Interval_5 a owl:NamedIndividual ;
+    ns0:Max 10 ;
+    ns0:Min 1 ;
+    ns0:state "Alarm";
+    ns0:Par_5 ns0:Interval_5 .
+
+ns0:interval_1 a owl:NamedIndividual ;
+    ns0:Max 30 ;
+    ns0:Min 15 ;
+    ns0:state "Warning";
+    ns0:Par1 ns0:interval_1 .
+
+ns0:interval_2 a owl:NamedIndividual ;
+    ns0:Max 32 ;
+    ns0:Min 16 ;
+    ns0:state "Warning";
+    ns0:Par2 ns0:interval_2 .
+
+ns0:interval_3 a owl:NamedIndividual ;
+    ns0:Max 40 ;
+    ns0:Min 21 ;
+    ns0:state "Warning";
+    ns0:Par3 ns0:interval_3 .
+
+ns0:interval_4 a owl:NamedIndividual ;
+    ns0:Max 28 ;
+    ns0:Min 14 ;
+    ns0:state "Warning";
+    ns0:Par4 ns0:interval_4 .
+
+ns0:interval_5 a owl:NamedIndividual ;
+    ns0:Max 22 ;
+    ns0:Min 11 ;
+    ns0:state "Warning";
+    ns0:Par5 ns0:interval_5 .
+
+
+ns0:par1		rdf:type	owl:OjectProperty.
+ns0:par2		rdf:type	owl:OjectProperty.
+ns0:par3		rdf:type	owl:OjectProperty.
+ns0:par4		rdf:type	owl:OjectProperty.
+ns0:par5		rdf:type	owl:OjectProperty.
+ns0:A1			rdf:type	owl:OjectProperty.
+ns0:A2			rdf:type	owl:OjectProperty.
+ns0:A3			rdf:type	owl:OjectProperty.
+ns0:A4			rdf:type	owl:OjectProperty.
+ns0:A5			rdf:type	owl:OjectProperty.
+ns0:min			rdf:type	ns0:DatatypeProperty.
+ns0:max			rdf:type	ns0:DatatypeProperty.
+
+
+ns0:Alarm 	rdf:type	ns0:State.
+
+ns0:Alarm	ns0:A1	ns0:Alarm1_A1,
+			ns0:Alarm2_A1,
+			ns0:Alarm3_A1,
+			ns0:Alarm4_A1,
+			ns0:Alarm5_A1;
+					
+		ns0:A2	ns0:Alarm1_A2,
+			ns0:Alarm2_A2,
+			ns0:Alarm3_A2,
+			ns0:Alarm4_A2;
+
+		ns0:A3	ns0:Alarm1_A3,
+			ns0:Alarm2_A3,
+			ns0:Alarm3_A3;
+
+		ns0:A4	ns0:Alarm1_A4,
+			ns0:Alarm2_A4;
+					
+		ns0:A5	ns0:Alarm1_A5.
+
+ns0:Alarm1_A1	ns0:Par1	ns0:Interval1.
+ns0:Alarm2_A1 	ns0:Par2	ns0:Interval2.
+ns0:Alarm3_A1	ns0:Par3	ns0:Interval3.
+ns0:Alarm4_A1	ns0:Par4	ns0:Interval4.
+ns0:Alarm5_A1	ns0:Par5	ns0:Interval5.
+
+ns0:Alarm1_A2	ns0:Par1	ns0:Interval1;
+		ns0:Par2	ns0:Interval2.
+
+ns0:Alarm2_A2	ns0:Par2	ns0:Interval2;
+		ns0:Par3	ns0:Interval3.
+				
+ns0:Alarm3_A2	ns0:Par3	ns0:Interval3;
+		ns0:Par4	ns0:Interval4.
+				
+ns0:Alarm4_A2	ns0:Par4	ns0:Interval4;
+		ns0:Par5	ns0:Interval5.				
+				
+ns0:Alarm1_A3	ns0:Par1	ns0:Interval1;
+		ns0:Par2	ns0:Interval2;
+		ns0:Par3	ns0:Interval3.
+
+ns0:Alarm2_A3	ns0:Par3	ns0:Interval3;
+		ns0:Par4	ns0:Interval4;
+		ns0:Par5	ns0:Interval5.
+
+ns0:Alarm3_A3	ns0:Par1	ns0:Interval1;
+		ns0:Par3	ns0:Interval3;
+		ns0:Par5	ns0:Interval5.
+				
+ns0:Alarm1_A4	ns0:Par1	ns0:Interval1;
+		ns0:Par2	ns0:Interval2;
+		ns0:Par3	ns0:Interval3;
+		ns0:Par4	ns0:Interval4.
+
+ns0:Alarm2_A4	ns0:Par2	ns0:Interval2;
+		ns0:Par3	ns0:Interval3;
+		ns0:Par4	ns0:Interval4;
+		ns0:Par5	ns0:Interval5.
+				
+ns0:Alarm1_A5	ns0:Par1	ns0:Interval1;
+		ns0:Par2	ns0:Interval2;
+		ns0:Par3	ns0:Interval3;
+		ns0:Par4	ns0:Interval4;
+		ns0:Par5	ns0:Interval5.
+
+
+ns0:Interval1	ns0:min	1;
+		ns0:max 14.
+
+ns0:Interval2	ns0:min	1;
+		ns0:max 15.
+
+ns0:Interval3	ns0:min	1;
+		ns0:max 20.
+
+ns0:Interval4	ns0:min	1;
+		ns0:max 13.
+
+ns0:Interval5	ns0:min	1;
+		ns0:max 200.
+
+
+ns0:Warning	rdf:type	ns0:State.
+										
+ns0:Warning	ns0:A1	ns0:Warning1_A1,
+			ns0:Warning2_A1,
+			ns0:Warning3_A1,
+			ns0:Warning4_A1,
+			ns0:Warning5_A1;
+										
+		ns0:A2	ns0:Warning1_A2,
+			ns0:Warning2_A2,
+			ns0:Warning3_A2,
+			ns0:Warning4_A2;
+										
+		ns0:A3	ns0:Warning1_A3,
+			ns0:Warning2_A3,
+			ns0:Warning3_A1;
+										
+		ns0:A4	ns0:Warning1_A4,
+			ns0:Warning2_A4;
+										
+		ns0:A5	ns0:Warning1_A5.
+										
+ns0:Warning1_A1		ns0:Par1	ns0:interval1.
+ns0:Warning2_A1		ns0:Par2	ns0:interval2.
+ns0:Warning3_A1		ns0:Par3	ns0:interval3.
+ns0:Warning4_A1		ns0:Par4	ns0:interval4.
+ns0:Warning5_A1		ns0:Par5	ns0:interval5.
+
+										
+ns0:Warning1_A2		ns0:Par1	ns0:interval1;
+			ns0:Par2	ns0:interval2.
+
+ns0:Warning2_A2		ns0:Par2	ns0:interval2;
+			ns0:Par3	ns0:interval3.
+
+ns0:Warning3_A2		ns0:Par3	ns0:interval3;
+			ns0:Par4	ns0:interval4.
+
+ns0:Warning4_A2		ns0:Par4	ns0:interval4;
+			ns0:Par5	ns0:interval5.
+
+										
+ns0:Warning1_A3		ns0:Par1	ns0:interval1;
+			ns0:Par2	ns0:interval2;
+			ns0:Par3	ns0:interval3.
+
+ns0:Warning2_A3		ns0:Par3	ns0:interval3;
+			ns0:Par4	ns0:interval4;
+			ns0:Par5	ns0:interval5.
+
+ns0:Warning3_A3		ns0:Par1	ns0:interval1;
+			ns0:Par3	ns0:interval3;
+			ns0:Par5	ns0:interval5.
+											
+ns0:Warning1_A4		ns0:Par1	ns0:interval1;
+			ns0:Par2	ns0:interval2;
+			ns0:Par3	ns0:interval3;
+			ns0:Par4	ns0:interval4.
+
+ns0:Warning2_A4		ns0:Par2	ns0:interval2;
+			ns0:Par3	ns0:interval3;
+			ns0:Par4	ns0:interval4;
+			ns0:Par5	ns0:interval5.
+										
+ns0:Warning1_A5		ns0:Par1	ns0:interval1;
+			ns0:Par2	ns0:interval2;
+			ns0:Par3	ns0:interval3;
+			ns0:Par4	ns0:interval4;
+			ns0:Par5	ns0:interval5.
+										
+										
+ns0:interval1	ns0:min	15;
+		ns0:max	30.
+
+ns0:interval2	ns0:min	16;
+		ns0:max	32.
+
+ns0:interval3	ns0:min	21;
+		ns0:max	40.
+										
+ns0:interval4	ns0:min	14;
+		ns0:max	28.
+										
+ns0:interval5	ns0:min	11;
+		ns0:max	150.
