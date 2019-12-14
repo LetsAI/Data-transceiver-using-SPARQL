@@ -3,7 +3,7 @@
 
 ### Contents
 * [Description](#Description)
-* [Hardware requirements](#Hardware requirements)
+* [Hardware requirements](#Hardware-requirements)
 * [Tasks](#tasks)
 * [C-map](#C-map)
 * [Results](#Results)<br/>
