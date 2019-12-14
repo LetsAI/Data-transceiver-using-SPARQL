@@ -12,7 +12,7 @@
   [**SPARQL**](https://en.wikipedia.org/wiki/SPARQL) is an RDF query language—that is, a semantic query language for databases—able to       retrieve and manipulate data stored in Resource Description Framework format.
 <br/>
 
-### Hardware requirements
+### Hardware_requirements
 * Arduino chip 
 * Five sensors
 * Leds 
@@ -30,7 +30,7 @@ The tasks used here are:
 * A button when pressed, it will find and replace the old values of triple nodes (delete them using “graph.Retract(...)” command), then create new triple and add this to graph (“graph.Assert(...)”).
 <br/>
 
-### C-map
+### <a id="C_map">C_map</a>
 The below images are representation for two situations alarm and warning using C-map:
 * [Alarm](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/alarm.jpg)
 * [Warning](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/warning.jpg)
