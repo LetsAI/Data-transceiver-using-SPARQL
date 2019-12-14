@@ -1,15 +1,18 @@
 # Data-transceiver-using-SPARQL
-  This is an implementation of how to transfer and manipulate data between the Arduino chip and the c-sharp program using the serial port   and SPARQL.<br/><br/>
+  This is an implementation of how to transfer and manipulate data between the Arduino chip and the c-sharp program using the serial port and SPARQL.<br/>
+<br/>
 
 ### Contents
 * [Description](#Description)
 * [Hardware requirements](#Hardware-requirements)
 * [Tasks](#tasks)
 * [C-map](#C-map)
-* [Results](#Results)<br/>
+* [Results](#Results)
+<br/>
 
-### Description   
-  [**SPARQL**](https://en.wikipedia.org/wiki/SPARQL) is an RDF query language—that is, a semantic query language for databases—able to       retrieve and manipulate data stored in Resource Description Framework format.
+### Description
+The basic idea is to receive values from the sensors and then send SPARQL-queries to the [Notation3 file](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Lab/bin/Debug/n3/converter.n3) which has the Knowledgebase to check whether which sensor has an alarm, warning or normal situation./
+[**SPARQL**](https://en.wikipedia.org/wiki/SPARQL) is an RDF query language—that is, a semantic query language for databases—able to    retrieve and manipulate data stored in Resource Description Framework format.
 <br/>
 
 ### Hardware requirements
