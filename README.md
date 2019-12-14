@@ -5,7 +5,7 @@
 * [Description](#Description)
 * [Hardware_requirements](#Hardware_requirements)
 * [Tasks](#tasks)
-* [C_map](C_map)
+* [C-map](C-map)
 * [Results](#Results)<br/>
 
 ### Description   
@@ -30,7 +30,7 @@ The tasks used here are:
 * A button when pressed, it will find and replace the old values of triple nodes (delete them using “graph.Retract(...)” command), then create new triple and add this to graph (“graph.Assert(...)”).
 <br/>
 
-### <a id="C_map">C_map</a>
+### <a id="C-map">C-map</a>
 The below images are representation for two situations alarm and warning using C-map:
 * [Alarm](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/alarm.jpg)
 * [Warning](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/warning.jpg)
