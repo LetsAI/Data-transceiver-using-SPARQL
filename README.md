@@ -3,9 +3,9 @@
 
 ### Contents
 * [Description](#Description)
-* [Hardware requirements](#Hardware requirements)
+* [Hardware_requirements](#Hardware_requirements)
 * [Tasks](#tasks)
-* [C-map](C-map)
+* [C_map](C_map)
 * [Results](#Results)<br/>
 
 ### Description   
