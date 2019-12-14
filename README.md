@@ -11,7 +11,8 @@
 <br/>
 
 ### Description
-The basic idea is to receive values from the sensors and then send SPARQL-queries to the [Notation3 file](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Lab/bin/Debug/n3/converter.n3) which has the Knowledgebase to check whether which sensor has an alarm, warning or normal situation./
+The basic idea is to receive values from the sensors and then send SPARQL-queries to the [Notation3 file](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Lab/bin/Debug/n3/N3.n3) which has the Knowledgebase to check whether which sensor has an alarm, warning or normal situation. After that, an order will be sent to Arduino to make an action.
+<br/>
 [**SPARQL**](https://en.wikipedia.org/wiki/SPARQL) is an RDF query language—that is, a semantic query language for databases—able to    retrieve and manipulate data stored in Resource Description Framework format.
 <br/>
 
