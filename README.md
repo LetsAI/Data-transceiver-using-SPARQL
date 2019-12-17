@@ -35,7 +35,7 @@ The tasks used here are:
 <br/>
 
 ### <a id="C-map">C-map</a>
-The below images are representation for two situations alarm and warning using C-map:
+The below images are a representation of two situations alarm and warning using C-map:
 * [Alarm](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/alarm.jpg)
 * [Warning](https://github.com/LetsAI/Data-transceiver-using-SPARQL/blob/master/Images/warning.jpg)
 <br/>
