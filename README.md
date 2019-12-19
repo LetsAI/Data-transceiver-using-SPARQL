@@ -1,5 +1,5 @@
 # Data-transceiver-using-SPARQL
-  This is an implementation of how to transfer and manipulate data between the Arduino chip and the c-sharp program using the serial port and SPARQL.<br/>
+  This is an implementation of how to transfer and manipulate data between the Arduino chip and the C-sharp program using the serial port and SPARQL.<br/>
 <br/>
 
 ### Contents
